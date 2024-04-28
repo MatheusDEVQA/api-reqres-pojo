@@ -10,6 +10,8 @@ public class User {
         this.name = name;
         this.job = job;
     }
+    public User() {
+    }
 
     public String getName() {
         return name;
