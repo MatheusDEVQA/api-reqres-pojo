@@ -34,4 +34,4 @@ No terminal rode o comando `mvn -B clean verify`
 
 #### Pipeline Github Actions
 
-Na aba actions selecione o workflow `Regression Tests APi Reqres` e clique no menu **Run workflow**
+Na aba actions selecione o workflow `Regression Tests APi Reqres` e clique no menu **Run workflow**, para visualizar os resultados baixe o artefato test-results e abra o arquivo .txt.
